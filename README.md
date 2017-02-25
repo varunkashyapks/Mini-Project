@@ -7,3 +7,4 @@
 4]Out-of-school rates
 
 ### Data pre-processing
+1] Data cleaning (Unstructured format to Structured format)
