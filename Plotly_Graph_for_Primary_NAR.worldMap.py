@@ -3,7 +3,7 @@ import plotly.plotly as py
 import plotly
 plotly.tools.set_credentials_file(username='sandeepbabgond', api_key='vcpfBduhzWqlk04B7Tc8')
 
-df = pd.read_excel('/home/sandeep/project2/cleaneddata/PrimaryNAR_cleaned.xlsx')
+df = pd.read_excel('/home/varun/project2/cleaneddata/PrimaryNAR_cleaned.xlsx')
 
 data2 = dict(
  type = 'choropleth',
