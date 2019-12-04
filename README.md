@@ -16,3 +16,4 @@ Data visualization is a key part of any data science workflow. Data visualizatio
 ### Data Analysis
 We used pandas for Data pre processing ,Python pandas are the one of most powerfull to make structured data
 
+Link = https://varunkashyapks.github.io/Mini-Project/
